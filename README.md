@@ -1,7 +1,9 @@
 # Курс БКИТ (Базовые компоненты интернет-технологий)
 Курс БКИТ, кафедра ИУ-5, 3 семестр, осень 2022 года.
 
-#### [Структура курса.](https://github.com/ugapanyuk/BKIT_2022/blob/master/pdf/bkit_intro.pdf)
+### [Видеозаписи лекций](https://youtube.com/playlist?list=PL9vFTJYocFHo6GNjzFXlIpsMhDsfr8qQ-)
+
+#### [Структура курса](https://github.com/ugapanyuk/BKIT_2022/blob/master/pdf/bkit_intro.pdf)
 
 ## Лекции:
 
