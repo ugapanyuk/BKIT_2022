@@ -1,0 +1,1 @@
+print('Init subpackage muls')
