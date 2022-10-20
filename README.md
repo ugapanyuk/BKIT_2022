@@ -35,15 +35,30 @@
     * [Работа с файлами в Python.](https://nbviewer.jupyter.org/github/ugapanyuk/BKIT_2022/blob/main/notebooks/fp/files/files.ipynb)
     * [Новые возможности функционального программирования в Python 3.10.](https://docs.python.org/3.10/whatsnew/3.10.html)
 
+1. Модульное тестирование и фреймворк Flask
+    * [Введение в модульное тестирование.](https://github.com/ugapanyuk/BKIT_2022/blob/master/pdf/bkit_test.pdf)
+    * Введение в разработку веб-приложений на Python с использованием веб-фреймворка Flask. (в разработке)
+ 
+1. Введение в язык программирования Rust (в разработке)
+
 
 ## Лабораторные работы:
-1. [Основные конструкции языка Python.](https://github.com/ugapanyuk/BKIT_2022/wiki/lab_python_intro) ( [Пример кода](/code/lab1_code) )
-1. [Объектно-ориентированные возможности языка Python.](https://github.com/ugapanyuk/BKIT_2022/wiki/lab_python_oop) ( [Пример](/code/lab2_code) )
-1. [Функциональные возможности языка Python.](https://github.com/ugapanyuk/BKIT_2022/wiki/lab_python_fp)
+1. Лабораторная работа №1. [Основные конструкции языка Python.](https://github.com/ugapanyuk/BKIT_2022/wiki/lab_python_intro) ( [Пример кода](/code/lab1_code) )
+1. Лабораторная работа №2. [Объектно-ориентированные возможности языка Python.](https://github.com/ugapanyuk/BKIT_2022/wiki/lab_python_oop) ( [Пример](/code/lab2_code) )
+1. Лабораторная работа №3-4. [Функциональные возможности языка Python.](https://github.com/ugapanyuk/BKIT_2022/wiki/lab_python_fp)
+1. Лабораторная работа №5. [Модульное тестирование в Python.](https://github.com/ugapanyuk/BKIT_2022/wiki/lab_python_test) 
+1. Лабораторная работа №6. Разработка на языке программирования Rust. (в разработке)
+1. Лабораторная работа №6 (альтернативный вариант). Разработка бота для Telegram с использованием языка Python. [На основе материалов лабораторных работ 5 или 6 из курса 2021 года.](https://github.com/ugapanyuk/BKIT_2021)
+
+
 
 ## Домашнее задание:
 
+* [Основной вариант домашнего задания.](https://github.com/ugapanyuk/BKIT_2022/wiki/DZ)
+* Альтернативный вариант домашнего задания. [Выполнение домашнего задания из курса 2021 года.](https://github.com/ugapanyuk/BKIT_2021)
+
 ## Рубежные контроли:
+* Условия РК публикуются в чате потока.
 
 ## Материалы к зачету:
 
