@@ -9,5 +9,5 @@ def fib():
 
 if __name__ == '__main__':
     fib_gen = fib()
-    res = [next(fib_gen) for i in range(20)]
+    res = [next(fib_gen) for _ in range(20)]
     print(res)

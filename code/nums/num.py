@@ -14,7 +14,7 @@ def hello_world():
 @app.route('/num/<int:cnt>')
 def get_fib(cnt):
     fib_gen = fib()
-    res = [next(fib_gen) for i in range(cnt)]
+    res = [next(fib_gen) for _ in range(cnt)]
     return res
 
 
