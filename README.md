@@ -42,7 +42,7 @@
     * [Пример вызова сервиса на Flask.](https://nbviewer.jupyter.org/github/ugapanyuk/BKIT_2022/blob/main/notebooks/nums/run_num_service.ipynb)
 
  
-1. [Введение в язык программирования Rust](https://github.com/ugapanyuk/BKIT_2022/blob/master/pdf/bkit_rust.pdf)
+1. [Введение в язык программирования Rust.](https://github.com/ugapanyuk/BKIT_2022/blob/master/pdf/bkit_rust.pdf)
 
 
 ## Лабораторные работы:
