@@ -42,7 +42,7 @@
     * [Пример вызова сервиса на Flask.](https://nbviewer.jupyter.org/github/ugapanyuk/BKIT_2022/blob/main/notebooks/nums/run_num_service.ipynb)
 
  
-1. Введение в язык программирования Rust (в разработке)
+1. [Введение в язык программирования Rust](https://github.com/ugapanyuk/BKIT_2022/blob/master/pdf/bkit_rust.pdf)
 
 
 ## Лабораторные работы:
@@ -50,7 +50,7 @@
 1. Лабораторная работа №2. [Объектно-ориентированные возможности языка Python.](https://github.com/ugapanyuk/BKIT_2022/wiki/lab_python_oop) ( [Пример](/code/lab2_code) )
 1. Лабораторная работа №3-4. [Функциональные возможности языка Python.](https://github.com/ugapanyuk/BKIT_2022/wiki/lab_python_fp)
 1. Лабораторная работа №5. [Модульное тестирование в Python.](https://github.com/ugapanyuk/BKIT_2022/wiki/lab_python_test) 
-1. Лабораторная работа №6. Разработка на языке программирования Rust. (в разработке)
+1. Лабораторная работа №6. [Разработка на языке программирования Rust.](https://github.com/ugapanyuk/BKIT_2022/wiki/lab_rust)
 1. Лабораторная работа №6 (альтернативный вариант). Разработка бота для Telegram с использованием языка Python. [На основе материалов лабораторных работ 5 или 6 из курса 2021 года.](https://github.com/ugapanyuk/BKIT_2021)
 
 
