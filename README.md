@@ -43,6 +43,7 @@
 
  
 1. [Введение в язык программирования Rust.](https://github.com/ugapanyuk/BKIT_2022/blob/master/pdf/bkit_rust.pdf)
+    * [Пример квадратного уравнения.](/code/lect_1_projects/SquareRootRust)
 
 
 ## Лабораторные работы:
