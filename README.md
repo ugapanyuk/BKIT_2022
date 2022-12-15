@@ -45,6 +45,8 @@
 1. [Введение в язык программирования Rust.](https://github.com/ugapanyuk/BKIT_2022/blob/master/pdf/bkit_rust.pdf)
     * [Пример квадратного уравнения.](/code/lect_1_projects/SquareRootRust)
 
+1. [Программная платформа обработки метаграфов.](https://github.com/ugapanyuk/BKIT_2022/blob/master/pdf/metagraph_project.pdf)
+
 
 ## Лабораторные работы:
 1. Лабораторная работа №1. [Основные конструкции языка Python.](https://github.com/ugapanyuk/BKIT_2022/wiki/lab_python_intro) ( [Пример кода](/code/lab1_code) )
